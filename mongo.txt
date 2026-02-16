@@ -1,0 +1,1 @@
+MongoDB is a popular, open-source NoSQL document database designed for flexibility, scalability, and developer ease, often used in modern web/mobile application
